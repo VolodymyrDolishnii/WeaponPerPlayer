@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WeaponPerPlayer/static/css/main.fb3c5807.css",
+    "main.js": "/WeaponPerPlayer/static/js/main.fac180a6.js",
+    "static/media/20043.gif": "/WeaponPerPlayer/static/media/20043.918c7edba276ae6397eb.gif",
+    "index.html": "/WeaponPerPlayer/index.html",
+    "main.fb3c5807.css.map": "/WeaponPerPlayer/static/css/main.fb3c5807.css.map",
+    "main.fac180a6.js.map": "/WeaponPerPlayer/static/js/main.fac180a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3c5807.css",
+    "static/js/main.fac180a6.js"
+  ]
+}
